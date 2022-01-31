@@ -1,5 +1,5 @@
-# Chat App By Flutter & Firestore 🤳✨
- A Simple chat app built with Flutter/Dart and Firestore.
+# Chat App By Flutter & Firebase 🤳✨
+ A Simple chat app built with Flutter/Dart and Firebase.
  
  ## Screenshot 📱
  
